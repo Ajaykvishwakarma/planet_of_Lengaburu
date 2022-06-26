@@ -1,0 +1,16 @@
+.planet_container {
+    font-size: 20px;
+    margin:auto;
+    margin-left: 30px !important;
+
+  }
+    
+  .head {
+    margin: 0.5rem;
+  }
+  
+  .select_panet {
+      padding: 0.3rem 1rem 0.3rem 0.3rem;
+    border-radius: 5%;
+  }
+  
